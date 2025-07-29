@@ -13,8 +13,6 @@ A headless CMS is a back-end only content management system that provides conten
 
 #### Contentful
 
-Create a Contentful account
-
 [Contentful](https://www.contentful.com/)
 
 #### Install SDK
